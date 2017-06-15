@@ -1,0 +1,48 @@
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          4 K
+System                           4 Services                   0        136 K
+smss.exe                       400 Services                   0      1,176 K
+csrss.exe                      528 Services                   0      4,100 K
+wininit.exe                    608 Services                   0      4,936 K
+csrss.exe                      616 Console                    1      4,056 K
+winlogon.exe                   668 Console                    1      8,212 K
+services.exe                   740 Services                   0      7,040 K
+lsass.exe                      756 Services                   0     14,724 K
+svchost.exe                    836 Services                   0     19,632 K
+svchost.exe                    896 Services                   0      8,868 K
+LogonUI.exe                    988 Console                    1     40,796 K
+dwm.exe                        996 Console                    1     29,248 K
+svchost.exe                    560 Services                   0     37,216 K
+svchost.exe                    488 Services                   0     17,944 K
+svchost.exe                    852 Services                   0     20,528 K
+svchost.exe                   1084 Services                   0     17,716 K
+svchost.exe                   1176 Services                   0     41,748 K
+svchost.exe                   1184 Services                   0     25,144 K
+svchost.exe                   1300 Services                   0     20,948 K
+svchost.exe                   1308 Services                   0      6,996 K
+spoolsv.exe                   1820 Services                   0     15,456 K
+LiteAgent.exe                 1948 Services                   0      6,776 K
+svchost.exe                   1996 Services                   0      7,772 K
+svchost.exe                   2024 Services                   0     16,132 K
+MsMpEng.exe                   1356 Services                   0     30,964 K
+WmiPrvSE.exe                  2396 Services                   0      8,672 K
+csrss.exe                     2732 RDP-Tcp#5                  2      4,672 K
+winlogon.exe                  2772 RDP-Tcp#5                  2      7,368 K
+dwm.exe                       2836 RDP-Tcp#5                  2     39,440 K
+rdpclip.exe                   1868 RDP-Tcp#5                  2     13,152 K
+RuntimeBroker.exe             2512 RDP-Tcp#5                  2     22,288 K
+sihost.exe                    2728 RDP-Tcp#5                  2     19,356 K
+svchost.exe                   2820 RDP-Tcp#5                  2     19,300 K
+taskhostw.exe                 2676 RDP-Tcp#5                  2     14,924 K
+explorer.exe                  3360 RDP-Tcp#5                  2     61,980 K
+ShellExperienceHost.exe       3600 RDP-Tcp#5                  2     50,384 K
+SearchUI.exe                  3712 RDP-Tcp#5                  2     45,332 K
+svchost.exe                   2948 Services                   0      6,756 K
+jusched.exe                    436 RDP-Tcp#5                  2     13,368 K
+msdtc.exe                     5080 Services                   0      9,276 K
+cmd.exe                       1204 RDP-Tcp#5                  2      3,784 K
+conhost.exe                   4328 RDP-Tcp#5                  2     16,832 K
+WmiPrvSE.exe                  2232 Services                   0      8,660 K
+tasklist.exe                  4584 RDP-Tcp#5                  2      7,744 K

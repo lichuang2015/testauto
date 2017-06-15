@@ -1,0 +1,26 @@
+ Volume in drive C is OS
+ Volume Serial Number is C621-9DC9
+
+ Directory of C:\AGA\Preparation
+
+06/12/2017  03:24 AM    <DIR>          .
+06/12/2017  03:24 AM    <DIR>          ..
+06/05/2017  03:03 AM               300 BuildDataWarehousePresenterTest1.java
+06/05/2017  03:03 AM               348 BuildDataWarehousePresenterTest2.java
+06/05/2017  03:03 AM               509 BuildDataWarehousePresenterTest3.java
+06/05/2017  03:03 AM               581 BuildDataWarehousePresenterTest4.java
+06/05/2017  03:03 AM               630 BuildDataWarehousePresenterTest5.java
+06/05/2017  03:03 AM               619 BuildDataWarehousePresenterTest6.java
+06/05/2017  03:03 AM               101 Connect.cmd
+06/05/2017  03:03 AM             2,440 Connect.ps1
+06/05/2017  03:03 AM               103 Evaluate.cmd
+06/05/2017  03:03 AM             1,640 Evaluate.ps1
+06/05/2017  03:03 AM               102 Jenkins.cmd
+06/05/2017  03:03 AM             1,089 Jenkins.ps1
+06/12/2017  03:24 AM                 0 list.txt
+06/05/2017  03:03 AM               111 Setup.cmd
+06/05/2017  03:03 AM            14,860 Setup.ps1
+06/05/2017  03:03 AM                77 Update.cmd
+06/05/2017  03:03 AM             1,473 Update.ps1
+              17 File(s)         24,983 bytes
+               2 Dir(s)  18,025,852,928 bytes free
